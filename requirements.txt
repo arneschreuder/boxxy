@@ -1,0 +1,7 @@
+numpy
+openai
+pynput
+python-dotenv
+scipy
+sounddevice
+SpeechRecognition
